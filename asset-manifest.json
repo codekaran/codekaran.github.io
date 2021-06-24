@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.587b8c82.chunk.css",
+    "main.js": "/static/js/main.8f44d4cb.chunk.js",
+    "main.js.map": "/static/js/main.8f44d4cb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ec6475f9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ec6475f9.js.map",
+    "static/js/2.6d633401.chunk.js": "/static/js/2.6d633401.chunk.js",
+    "static/js/2.6d633401.chunk.js.map": "/static/js/2.6d633401.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.587b8c82.chunk.css.map": "/static/css/main.587b8c82.chunk.css.map",
+    "static/js/2.6d633401.chunk.js.LICENSE.txt": "/static/js/2.6d633401.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/static/media/family.0bda8aad.jpg",
+    "static/media/people_video.509eba60.mp4": "/static/media/people_video.509eba60.mp4",
+    "static/media/contactFullPage.css": "/static/media/profile-pic.e2dbd3d8.jpg",
+    "static/media/home.css": "/static/media/wallyn-home.ae9fbce6.png",
+    "static/media/App.css": "/static/media/whatspp.c80bb84a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec6475f9.js",
+    "static/js/2.6d633401.chunk.js",
+    "static/css/main.587b8c82.chunk.css",
+    "static/js/main.8f44d4cb.chunk.js"
+  ]
+}
